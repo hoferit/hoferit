@@ -6,7 +6,7 @@ Hi! I'm Michael. After many years in the fields of music and hospitality, I deci
 Today, as a full-stack developer, I find joy in creating user-friendly, robust web applications. My tech stack includes Next.js 13, Prisma, Postgres, TypeScript, SCSS, Tailwind, and Figma.
 
 ##### Special Interests
-My areas of special interest are accessibility (a11y) and user experience (UX) design. I am excited about learning more about these fields and making meaningful contributions.
+My areas of special interest are accessibility (a11y) and database design. I am excited about learning more about these fields and making meaningful contributions.
 
 ##### 🔭 I’m currently working on [Climbing Buddies](https://github.com/hoferit/climbing-buddies)
 
