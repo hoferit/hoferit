@@ -10,7 +10,7 @@ My areas of special interest are accessibility (a11y) and database design. I am 
 
 ##### 🔭 I’m currently working on [Climbing Buddies](https://github.com/hoferit/climbing-buddies)
 
-##### 🌱 I’m currently learning [Resend](https://resend.com/)
+##### 🌱 I’m currently learning [GraphQL](https://graphql.com/)
 
 ##### 💬 Ask me about Prisma and Notistack
 
